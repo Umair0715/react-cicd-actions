@@ -10,6 +10,7 @@ function App() {
                     Welcome To React In Docker Compose (Feature Branch)
                 </h1>
                 <p>line 1</p>
+                <p>line 2</p>
             </header>
         </div>
     );
